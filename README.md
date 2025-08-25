@@ -6,3 +6,11 @@ Updated locally
 
 ## Edited on GitHub Web
 
+
+## About Me
+Hi, I’m Jenny Nguyen.
+I’m learning how to use GitHub Issues.
+
+## Fun Fact
+Hello world!
+
